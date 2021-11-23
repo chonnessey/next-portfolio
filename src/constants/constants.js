@@ -1,10 +1,10 @@
 export const projects = [
   {
-    title: 'MERN Memories',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/1.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://google.com',
+    title: 'EightySixed',
+    description: "This project is a social media platform directed towards people in the service industry. The idea was to have a platform where service industry workers can post about people who have been banned(eighty-sixed) from their place of work. On top of that it can just be a place where like minded people can create an online community and connect with each other! This project is a work in progress.",
+      image: '/images/86.png',
+      tags: ['React', 'Firebase', 'Material UI', 'Node'],
+    source: 'https://github.com/chonnessey/capstone-86ed',
     visit: 'https://google.com',
     id: 0,
   },
