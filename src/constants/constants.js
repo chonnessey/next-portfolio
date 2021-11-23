@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/memory.png',
     tags: ['React', 'JavaScript'],
     source: 'https://github.com/chonnessey/memory-game',
-    visit: '',
+    visit: 'https://condescending-bhaskara-7ab493.netlify.app/',
     id: 1,
   },
   {
