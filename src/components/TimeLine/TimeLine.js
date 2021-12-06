@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt eum, eligendi esse suscipit rem dolores? Voluptates suscipit voluptatem placeat rerum nostrum esse nulla neque nesciunt quae, adipisci sunt architecto ut.
+        Creative and forward thinking Full Stack Developer. I've spent the last year and a half immersing myself into the web development world and I couldn't be happier to have taking the plunge. I have an appetite to keep learning new technologies and methods in order to make the web experience enjoyable for everyone.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

@@ -12,9 +12,9 @@ const Hero = (props) => (
         I'm Adrian Camacho
       </SectionTitle>
       <SectionText>
-      Creative and forward-thinking Junior Full Stack Developer with a keen eye in creating intuitive digital design projects. I've spent the last 7 years honing in my soft skills in the service industry and am more than ready to make the transition into web development.
+      Creative and forward thinking Full Stack Developer. I've spent the last 2 years immersing myself into the web development world and I couldn't be happier to have taken the plunge. I have an appetite to keep learning new technologies and methods in order to make the web experience accesible and enjoyable for everyone.
       </SectionText>
-      <Button onClick={() => window.location = ``}>Learn More</Button>
+      {/* <Button onClick={() => window.location = ``}>Learn More</Button> */}
     </LeftSection>
   </Section>
 );
