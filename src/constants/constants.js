@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Super Marios Market',
-    description: "This project is an application that allows users to view products for a grocery store and reviews to them. If the user is an admin, it allows them to add, delete and update both products and reviews!",
-      image: '/images/3.jpg',
+    title: 'Crypto Coinz',
+    description: "This app is tracker for the top 100 crypto currencies in the world. There is loads of information on the subject matter within the app including live pricing, price history, market caps and the latest news on crypto.",
+      image: '/images/crypto.png',
       tags: ['Ruby', 'Rails', 'Bootstrap', 'BCrypt'],
-    source: 'https://github.com/chonnessey/super_mario',
-    visit: '',
+    source: 'https://github.com/chonnessey/crypto-coinz',
+    visit: 'https://objective-heyrovsky-7f62af.netlify.app/',
     id: 2,
   },
   {
