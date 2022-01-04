@@ -21,7 +21,7 @@ export const projects = [
     title: 'Crypto Coinz',
     description: "This app is tracker for the top 100 crypto currencies in the world. There is loads of information on the subject matter within the app including live pricing, price history, market caps and the latest news on crypto.",
       image: '/images/crypto.png',
-      tags: ['Ruby', 'Rails', 'Bootstrap', 'BCrypt'],
+      tags: ['React', 'Axios', 'AntDesign', 'React-Redux Toolkit'],
     source: 'https://github.com/chonnessey/crypto-coinz',
     visit: 'https://objective-heyrovsky-7f62af.netlify.app/',
     id: 2,
