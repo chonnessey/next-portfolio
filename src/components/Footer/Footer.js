@@ -22,13 +22,13 @@ const Footer = () => {
           <Slogan>Making the web experience smoother one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href='https://github.com/chonnessey'>
+          <SocialIcons target="_blank" href='https://github.com/chonnessey'>
             <AiFillGithub size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://www.linkedin.com/in/adrian-camacho-epicodus/'>
+          <SocialIcons target="_blank" href='https://www.linkedin.com/in/adrian-camacho-epicodus/'>
             <AiFillLinkedin size='3rem' />
           </SocialIcons>
-          <SocialIcons href='https://www.instagram.com/chonnessey/'>
+          <SocialIcons target="_blank" href='https://www.instagram.com/chonnessey/'>
             <AiFillInstagram size='3rem' />
           </SocialIcons>
         </SocialContainer>
