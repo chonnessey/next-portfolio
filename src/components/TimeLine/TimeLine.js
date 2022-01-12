@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Creative and forward thinking Full Stack Developer. I've spent the last year and a half immersing myself into the web development world and I couldn't be happier to have taking the plunge. I have an appetite to keep learning new technologies and methods in order to make the web experience enjoyable for everyone.
+        An ambitous, friendly and dedicated individual who strives to contribute every ounce of their knowledge to whatever company or project they're involved with. Technology, sports and gaming junkie who thrives in an open minded, team oriented enviornment. Someone who is ready to kick start their career and continue learning in order to be the best version of their self. 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
